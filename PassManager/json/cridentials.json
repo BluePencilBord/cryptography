@@ -1,0 +1,14 @@
+{
+    "cridentials": [
+        {"site": "site1", "login": "site1login", "password": "site1password"},
+        {"site": "site2", "login": "site2login", "password": "site2password"},
+        {"site": "site3", "login": "site3login", "password": "site3password"},
+        {"site": "site4", "login": "site4login", "password": "site4password"},
+        {"site": "site5", "login": "site5login", "password": "site5password"},
+        {"site": "site6", "login": "site6login", "password": "site6password"},
+        {"site": "site7", "login": "site7login", "password": "site7password"},
+        {"site": "site8", "login": "site8login", "password": "site8password"},
+        {"site": "site9", "login": "site9login", "password": "site9password"},
+        {"site": "site10", "login": "site10login", "password": "site10password"}
+    ]
+}
